@@ -1,0 +1,2 @@
+test,alpha,median_offers_threshold,high_n,low_n,high_mean_goals,low_mean_goals,mean_difference_high_minus_low,standard_error,t_statistic,degrees_of_freedom,p_value_two_sided,ci_95_low,ci_95_high,decision
+Welch independent two-sample t-test,0.05,1235.5,20,20,10.75,3.0,7.75,1.2136829552191435,6.385522649612109,27.9455809716332,6.585618321658666e-07,5.263665041373667,10.236334958626333,Reject H0
