@@ -7,7 +7,7 @@ This repository contains the Python code, datasets and generated outputs for the
 | Task | Student | Student ID | Analytic task | Statistical test |
 |---|---|---|---|---|
 | Task 1 | Syed Suleman Uddin Farhad | S403360 | Offers to Receive and Goals | Welch independent two-sample t-test |
-| Task 2 | Jordan Ryan | S405349 | Clean Sheets | One-sample t-test against 1 |
+| Task 2 | Jordan Then Ryan | S405349 | Clean Sheets | One-sample t-test against 1 |
 | Task 3 | Ujjwol Neupane | S403295 | Speed and Goals | Welch independent two-sample t-test |
 | Task 4 | Saugat Shrestha | S403036 | Own Goals | One-sample t-test against 0 |
 
