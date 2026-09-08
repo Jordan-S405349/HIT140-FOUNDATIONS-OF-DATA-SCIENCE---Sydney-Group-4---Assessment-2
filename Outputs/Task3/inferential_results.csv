@@ -1,0 +1,2 @@
+test,alpha,mean_speed_threshold,above_n,below_n,above_mean_goals,below_mean_goals,mean_difference_above_minus_below,standard_error,t_statistic,degrees_of_freedom,p_value_two_sided,ci_95_low,ci_95_high,decision
+Welch independent two-sample t-test,0.05,5.977083333333333,20,20,6.05,7.2,-1.1500000000000004,1.741256352238385,-0.6604426732006895,35.17922010452296,0.5132714674616294,-4.684294679384541,2.38429467938454,Fail to reject H0
