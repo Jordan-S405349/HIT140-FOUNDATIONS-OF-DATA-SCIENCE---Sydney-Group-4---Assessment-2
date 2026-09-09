@@ -1,0 +1,2 @@
+test,comparison_value,alpha,n,sample_mean,standard_error,t_statistic,degrees_of_freedom,p_value_two_sided,ci_95_low,ci_95_high,decision
+One-sample t-test,0,0.05,40,0.325,0.09049366035310188,3.5914118042287795,39,0.0009088272855831872,0.14195929488289022,0.5080407051171099,Reject H0
