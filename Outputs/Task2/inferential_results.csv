@@ -1,2 +1,0 @@
-test,comparison_value,alpha,n,sample_mean,standard_error,t_statistic,degrees_of_freedom,p_value_two_sided,ci_95_low,ci_95_high,decision
-One-sample t-test,1,0.05,40,1.225,0.23882055273836128,0.9421299692179248,39,0.35192579783725164,0.7419398364579564,1.7080601635420438,Fail to reject H0
