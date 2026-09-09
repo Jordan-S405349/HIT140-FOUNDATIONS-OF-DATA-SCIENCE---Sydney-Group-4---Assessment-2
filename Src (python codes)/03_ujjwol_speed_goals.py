@@ -1,3 +1,4 @@
+
 from pathlib import Path
 import math, pandas as pd, numpy as np
 from scipy import stats
@@ -20,3 +21,4 @@ print("Mean speed threshold:",threshold)
 print("Above mean goals:",a.mean(),"Below mean goals:",b.mean())
 print("Welch t:",test.statistic,"df:",test.df,"p:",test.pvalue)
 print("95% CI for mean difference:",ci)
+
