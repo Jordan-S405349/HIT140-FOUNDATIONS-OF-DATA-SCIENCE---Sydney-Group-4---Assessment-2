@@ -4,7 +4,7 @@ import math, pandas as pd, numpy as np
 from scipy import stats
 
 BASE=Path(__file__).resolve().parents[1]
-df=pd.read_csv(BASE/"data/raw/task3_speed_goals.csv")
+df=pd.read_csv(BASE/"Datasets/task3_speed_goals.csv")
 threshold=df["Average_Speed"].mean()
 df["Group"]=np.where(df["Average_Speed"]>threshold,"Above-average speed","Below-average speed")
 sample=pd.concat([df[df.Group=="Above-average speed"].sample(20,random_state=42),
